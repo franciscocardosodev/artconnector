@@ -8,7 +8,7 @@ class ArtConnectorServiceProvider extends ServiceProvider
     public function boot()
     {
         $this->publishes([
-            __DIR__.'/config/art_connector.php' => config_path('art_connector.php'),
+            __DIR__.'/config/artsoft_connector.php' => config_path('artsoft_connector.php'),
         ],'config');
     }
 
