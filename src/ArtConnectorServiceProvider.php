@@ -3,7 +3,7 @@
 use Illuminate\Support\ServiceProvider;
 
 
-class ArtsoftConnectorServiceProvider extends ServiceProvider
+class ArtConnectorServiceProvider extends ServiceProvider
 {
     public function boot()
     {
