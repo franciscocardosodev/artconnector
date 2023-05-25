@@ -9,7 +9,7 @@ class ArtsoftConnectorServiceProvider extends ServiceProvider
     {
         $this->publishes([
             __DIR__.'/config/artsoft_connector.php' => config_path('artsoft_connector.php'),
-        ],config);
+        ],'config');
     }
 
     public function register()
