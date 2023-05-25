@@ -1,0 +1,19 @@
+{
+    "name": "Bugrenade/artsoft-connector",
+    "description": "Artsoft connector as a laravel package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Franciscocardoso\\ArtsoftConnector\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Francisco Cardoso",
+            "email": "franciscocardosodev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
