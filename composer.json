@@ -1,5 +1,5 @@
 {
-    "name": "franciscocardosodev/artsoft-connector",
+    "name": "franciscocardosodev/artconnector",
     "description": "Artsoft connector as a laravel package",
     "type": "library",
     "license": "MIT",
