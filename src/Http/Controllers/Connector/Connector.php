@@ -1,6 +1,6 @@
 <?php
 
-namespace Franciscocardoso\ArtsoftConnector\Http\Services\Connector;
+namespace Franciscocardosodev\ArtsoftConnector\Http\Services\Connector;
 
 include "ArtsoftConnector.php";
 
